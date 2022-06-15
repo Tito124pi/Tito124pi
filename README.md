@@ -1,9 +1,13 @@
 <h1 align="center">Hi! 🖖 I'm Tito Romão</h1>
 <h3 align="center">A passionate frontend and full-stack developer from Portugal</h3>
 
-- 🔭 I’m currently working on [GetCrank](www.getcrank.io)
+- 🔭 I’m currently working on [GetCrank and LearningHub](www.getcrank.io https://learning-hub-tdll.herokuapp.com/)
 
 - 🌱 I’m currently learning **Javascript**
+
+- 📫 How to reach me **titoromao@hotmail.com**
+
+- ⚡ Fun fact **I've been a musician most of my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
